@@ -52,8 +52,8 @@ Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez t
 ---
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de Hugo](https://github-readme-stats.vercel.app/api?username=guillengalex&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillengalex&layout=compact&theme=radical)
+![Hugo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guillengalex&theme=radical)
+![Hugo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillengalex&layout=compact&theme=radical&hide_langs=html,css)
 
 ---
 
