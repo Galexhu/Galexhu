@@ -1,6 +1,6 @@
 # ¡Hola! Soy Hugo Guillén 👋 🚀
 
-### Full Stack Developer | Técnico de Sistemas | Estratega de Marketing
+### Full Stack Developer | Técnico de Sistemas informáticos | Técnico en gestión Comercial y Marketing
 
 Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez técnica del **desarrollo Full Stack** y el **soporte de sistemas** con una amplia trayectoria en **gestión comercial y marketing**. Mi enfoque está en crear soluciones digitales eficientes, escalables y orientadas al usuario.
 
@@ -30,12 +30,12 @@ Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez t
 
 ## 📂 Proyectos Destacados
 
-### 🎁 [4 Giift](https://github.com/galexhu/4giift)
+### 🎁 [4 Giift](https://github.com/Galexhu/Final_Project-4Giifts.git)
 **Asistente virtual de compra de regalos con IA.**
 * **Tecnologías:** React, Python, Flask, Integración con Google AI, JWT.
 * **Highlights:** Implementación de autenticación segura y lógica de recomendaciones basada en IA.
 
-### ⏱️ [Control de Presencia](https://github.com/tu-usuario/control-presencia)
+### ⏱️ [Control de Presencia]
 **Web de fichaje interno corporativo.**
 * **Tecnologías:** React, CSS Modules, Responsive Design.
 * **Highlights:** Enfoque en UX/UI y diseño adaptable para dispositivos móviles.
@@ -44,7 +44,7 @@ Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez t
 
 ## 💼 Experiencia & Educación
 
-* 🔭 Actualmente trabajando en **ADATIO Sistemas** como Técnico de Sistemas y colaborando con el área de Dev.
+* 🔭 Actualmente trabajando en **ADATIO Sistemas** como Técnico de Sistemas.
 * 🎓 Estudiando **DAW** en IES Virgen de la Paz.
 * 📜 Graduado como **FullStack Developer** en 4Geeks Academy.
 * 🏢 +10 años de experiencia en gestión y marketing (El Corte Inglés).
@@ -58,7 +58,8 @@ Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez t
 ---
 
 ## 📫 Conecta conmigo:
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+hugoalexanderguillen)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillengalex@gmail.com)
 
 ---
