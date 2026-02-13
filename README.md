@@ -1,16 +1,65 @@
-## Hi there 👋
+# ¡Hola! Soy Hugo Guillén 👋 🚀
 
-<!--
-**Galexhu/Galexhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Técnico de Sistemas | Estratega de Marketing
 
-Here are some ideas to get you started:
+Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez técnica del **desarrollo Full Stack** y el **soporte de sistemas** con una amplia trayectoria en **gestión comercial y marketing**. Mi enfoque está en crear soluciones digitales eficientes, escalables y orientadas al usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Mi Stack Tecnológico
+
+### **Front-End**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Back-End & Bases de Datos**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### **Herramientas & Otros**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🎁 [4 Giift](https://github.com/galexhu/4giift)
+**Asistente virtual de compra de regalos con IA.**
+* **Tecnologías:** React, Python, Flask, Integración con Google AI, JWT.
+* **Highlights:** Implementación de autenticación segura y lógica de recomendaciones basada en IA.
+
+### ⏱️ [Control de Presencia](https://github.com/tu-usuario/control-presencia)
+**Web de fichaje interno corporativo.**
+* **Tecnologías:** React, CSS Modules, Responsive Design.
+* **Highlights:** Enfoque en UX/UI y diseño adaptable para dispositivos móviles.
+
+---
+
+## 💼 Experiencia & Educación
+
+* 🔭 Actualmente trabajando en **ADATIO Sistemas** como Técnico de Sistemas y colaborando con el área de Dev.
+* 🎓 Estudiando **DAW** en IES Virgen de la Paz.
+* 📜 Graduado como **FullStack Developer** en 4Geeks Academy.
+* 🏢 +10 años de experiencia en gestión y marketing (El Corte Inglés).
+
+---
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de Hugo](https://github-readme-stats.vercel.app/api?username=guillengalex&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillengalex&layout=compact&theme=radical)
+
+---
+
+## 📫 Conecta conmigo:
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillengalex@gmail.com)
+
+---
+*“Orientado al aprendizaje continuo y a la resolución de problemas con atención al detalle.”*
