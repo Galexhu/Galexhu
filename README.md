@@ -58,8 +58,9 @@ Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez t
 ---
 
 ## 📫 Conecta conmigo:
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hugoalexanderguillen)
+*“Orientado al aprendizaje continuo y a la resolución de problemas con atención al detalle.”*
+---
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[https://www.linkedin.com/in/hugoalexanderguillen/]
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillengalex@gmail.com)
 
----
-*“Orientado al aprendizaje continuo y a la resolución de problemas con atención al detalle.”*
+
