@@ -60,6 +60,13 @@ Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez t
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=galexhu&layout=compact&theme=radical&hide=html,css" alt="Hugo's Top Langs" />
 </p>
 
+## 🐍 Mi Historial de Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galexhu/galexhu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galexhu/galexhu/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/galexhu/galexhu/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## 📩 ¡Hablemos!
