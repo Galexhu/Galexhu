@@ -54,13 +54,11 @@ Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez t
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Galexhu&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1" alt="Estadísticas de Hugo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=galexhu&show_icons=true&theme=radical" alt="Estadísticas de Hugo" />
   <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Galexhu&theme=radical" alt="Hugo's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galexhu&theme=radical" alt="Hugo's Streak" />
   <br/><br/>
-
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Galexhu&layout=compact&theme=radical&hide=html,css&cache_seconds=1" alt="Hugo's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexhu&layout=compact&theme=radical&hide=html,css" alt="Hugo's Top Langs" />
 </p>
 ---
 
