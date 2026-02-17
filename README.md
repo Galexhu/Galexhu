@@ -44,22 +44,19 @@ Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez t
 
 ## 💼 Experiencia & Educación
 
+* 📜 Graduado como **FullStack Developer** en 4Geeks Academy.
 * 🔭 Actualmente trabajando en **ADATIO Sistemas** como Técnico de Sistemas.
 * 🎓 Estudiando **DAW** en IES Virgen de la Paz.
-* 📜 Graduado como **FullStack Developer** en 4Geeks Academy.
 * 🏢 +10 años de experiencia en gestión y marketing (El Corte Inglés).
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galexhu&show_icons=true&theme=radical" alt="Estadísticas de Hugo" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galexhu&theme=radical" alt="Hugo's Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexhu&layout=compact&theme=radical&hide=html,css" alt="Hugo's Top Langs" />
-</p>
+## 📊 Resumen de Actividad
+![Stats](https://img.shields.io/badge/GitHub-Estadísticas_Disponibles-brightgreen?style=for-the-badge&logo=github)
+![Main Lang](https://img.shields.io/badge/Main_Langs-React_|_Node_|_Python-blue?style=for-the-badge&logo=javascript)
+
 ---
 
 ## 📩 ¡Hablemos!
