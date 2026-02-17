@@ -52,9 +52,14 @@ Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez t
 ---
 
 ## 📈 Estadísticas de GitHub
-![Hugo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guillengalex&theme=radical)
-![Hugo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillengalex&layout=compact&theme=radical&hide_langs=html,css)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Galexhu&show_icons=true&theme=radical" alt="Estadísticas de Hugo" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Galexhu&theme=radical" alt="Hugo's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galexhu&layout=compact&theme=radical&hide_langs=html,css" alt="Hugo's Top Langs" />
+</p>
 ---
 
 ## 📩 ¡Hablemos!
