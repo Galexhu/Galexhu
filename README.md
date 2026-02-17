@@ -53,9 +53,12 @@ Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez t
 
 ## 📈 Estadísticas de GitHub
 
-## 📊 Resumen de Actividad
-![Stats](https://img.shields.io/badge/GitHub-Estadísticas_Disponibles-brightgreen?style=for-the-badge&logo=github)
-![Main Lang](https://img.shields.io/badge/Main_Langs-React_|_Node_|_Python-blue?style=for-the-badge&logo=javascript)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=galexhu&show_icons=true&theme=radical" alt="Estadísticas de Hugo" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=galexhu&layout=compact&theme=radical&hide=html,css" alt="Hugo's Top Langs" />
+</p>
 
 ---
 
