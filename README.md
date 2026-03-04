@@ -1,7 +1,6 @@
 # ¡Hola! Soy Hugo Guillén 👋 🚀
 
-### Full Stack Developer | Técnico en gestión Comercial y Marketing | Técnico de Sistemas informáticos
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&size=19&pause=1000&color=66F71A&width=435&lines=Full+Stack+Developer;T%C3%A9cnico+en+Gesti%C3%B3n+Comercial+y+Marketing;T%C3%A9cnico+de+Sistemas+Inform%C3%A1ticos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=FFFFFF&width=500&lines=Full+Stack+Developer;T%C3%A9cnico+en+Gesti%C3%B3n+Comercial+y+Marketing;T%C3%A9cnico+de+Sistemas+Inform%C3%A1ticos)](https://git.io/typing-svg)
 
 Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez técnica del **desarrollo Full Stack** y el **soporte de sistemas** con una amplia trayectoria en **gestión comercial y marketing**. Mi enfoque está en crear soluciones digitales eficientes, escalables y orientadas al usuario.
 
