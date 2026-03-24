@@ -36,7 +36,7 @@ Soy un apasionado de la tecnología con un perfil híbrido: combino la solidez t
 * **Tecnologías:** React, Python, Flask, Integración con Google AI, JWT.
 * **Highlights:** Implementación de autenticación segura y lógica de recomendaciones basada en IA.
 
-### ⏱️ [Control de Presencia]
+### ⏱️ [Control de Presencia](https://github.com/Galexhu/fichajes-app.git)
 **Web de fichaje interno corporativo.**
 * **Tecnologías:** React, CSS Modules, Responsive Design.
 * **Highlights:** Enfoque en UX/UI y diseño adaptable para dispositivos móviles.
